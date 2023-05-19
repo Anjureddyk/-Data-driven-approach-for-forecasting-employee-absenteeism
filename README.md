@@ -5,4 +5,4 @@ Employee absenteeism can have significant financial and operational impacts on a
 
 This project aims to develop a data-driven approach for forecasting employee absenteeism using machine learning algorithms. The project will involve collecting and cleaning historical absence data from a company's HR system, exploring the data to identify patterns and trends, and using machine learning algorithms to develop predictive models. The models will be trained on historical data and evaluated on their ability to accurately predict employee absenteeism for a given time period.
 
-The provided data in this project contains two datasets, one is the dataset which is not cleaned and contains Nan values and the other dataset contains prepocessed data which is cleaned and processed.
+The provided data in this project contains two datasets, where you can try on your own to clean it or preprocess it for further processing, so kept it uncleaned and the other dataset contains prepocessed data which is cleaned and processed.
