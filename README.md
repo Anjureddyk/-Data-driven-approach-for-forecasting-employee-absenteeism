@@ -1,4 +1,5 @@
 # Data driven approach for forecasting employee absenteeism
+
 Creating a model for forecasting employee absenteeism which helps HR's to take an advantage of making intelligent decisions.
 
 Employee absenteeism can have significant financial and operational impacts on a business, including reduced productivity, increased costs, and lowered morale. A data-driven approach for forecasting employee absenteeism can help businesses anticipate and mitigate these impacts by identifying patterns and trends in employee absence data. By using machine learning algorithms to analyze historical absence data, businesses can gain insights into factors that contribute to employee absenteeism and develop proactive strategies to reduce absenteeism in the future.
