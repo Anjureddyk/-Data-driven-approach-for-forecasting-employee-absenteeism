@@ -34,3 +34,5 @@ The machine learning model was trained using scikit-learn on the provided datase
 
 ## Contributions
 Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
+
+
